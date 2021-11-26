@@ -1,0 +1,24 @@
+<meta>
+
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" cache="false" />
+
+	<file src="web-side/style.css" />
+	<file src="web-side/demo.ogg" />
+	<file src="web-side/app.js" />
+	<file src="web-side/jquery.js" />
+	<file src="web-side/index.html" />
+	<file src="web-side/jquery-3.6.0.min.js" />
+	<file src="web-side/jquery-ui.min.js" />
+
+	<file src="web-side/images/blood.png" />
+	<file src="web-side/images/cancel.png" />
+	<file src="web-side/images/check.png" />
+	<file src="web-side/images/hunger.png" />
+	<file src="web-side/images/important.png" />
+	<file src="web-side/images/locked.png" />
+	<file src="web-side/images/ring.png" />
+	<file src="web-side/images/thirst.png" />
+	<file src="web-side/images/unlocked.png" />
+
+</meta>
